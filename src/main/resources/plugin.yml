@@ -1,0 +1,12 @@
+name: EzerBlocker
+version: '${project.version}'
+description: null
+author: MrEzerYT
+website: 'https://mrezer.fun'
+main: fun.mrezer.ezerblocker.EzerBlocker
+commands:
+#  eblocker:
+#    description: Главная команда плагина
+#    aliases:
+#      - eb
+#      - ezerblocker
