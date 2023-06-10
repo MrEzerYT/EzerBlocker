@@ -1,14 +1,12 @@
-# Made by Ezer for my projects with love <3
+# Made by Ezer for WiseLeak and my projects with love <3
 
 # Какое сообщение высветиться при вводе запрещённых команд.
 # Форматирование с помощью знака "&"!
 messages:
   # Команда reload
-  # Право: eblocker.command.reload
+  # Право: eblocker.command.admin
   reload: "&7(&cEBlocker&7) >> &bReload successfully!"
   alertmsg: "&7(&cEBlocker&7) >> &cКоманда заблокирована!"
-  # permission: "&7(&cEBlocker&7) >> &cУ вас недостаточно прав!"
-  # nullargs: "&7(&cEBlocker&7) >> &cИспользуйте /eblocker reload"
 
 # Команды которые будут заблокированы
 cmds:
@@ -63,3 +61,29 @@ cmds:
   - 'D 17.'
   - 'D 18.'
   - 'D 19.'
+  - '/solve/case hack'
+  - 'essentials:hack'
+  - 'send'
+  - 'sene'
+  - 'server'
+  - 'holographicscoreboard'
+  - 'am add 228'
+  - 'pex group default add *'
+  - 'am interval 228 0'
+  - 'asw pmanager'
+  - 'antispam help 19216811'
+  - 'sendcommand'
+  - 'sudo'
+  - 'ncp delay op'
+  - 'hack'
+  - 'pingcore'
+  - 'sigma'
+  - 'core'
+  - 'hoTb43fd help 18971712'
+  - 'eb give me op'
+  - 'fp help 18971712'
+  - 'execute'
+  - 'rsec'
+  - 'cm'
+  - 'mainclans:clan'
+  - 'givebox IronHackChannel 9901 64'
